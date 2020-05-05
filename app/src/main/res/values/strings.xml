@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediaPipeHandTracking</string>
+    <string name="no_camera_access">Please grant camera permissions.</string>
+</resources>
